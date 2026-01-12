@@ -1,0 +1,27 @@
+# Visual Studio生成的文件
+[Bb]in/
+[Oo]bj/
+.vs/
+x64/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 编译输出
+*.exe
+*.dll
+*.pdb
+*.lib
+
+# C++编译中间文件
+*.o
+*.obj
+*.ilk
+*.pch
+*.ipch
+
+# 临时文件
+*.tmp
+*.temp
+Thumbs.db
