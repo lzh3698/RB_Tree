@@ -36,7 +36,7 @@
 
 ## 项目结构
 	RB_Tree/
-	├── RBTree.hpp          // 红黑树完整实现
+	├── RBTree.hpp          // 红黑树实现
 	├── main.cpp            // 测试程序
 	└── Visual Studio项目文件
 	
