@@ -39,7 +39,11 @@
 
 ## 项目结构
 	RB_Tree/
-	├── RBTree.hpp          // 红黑树实现
-	├── main.cpp            // 测试程序
-	└── Visual Studio项目文件
-	
+	├── RB_Tree.sln				# 解决方案文件
+	├── .gitignore				# 忽视文件
+	├── README.md
+	└── RB_TREE
+		├── RBTree.hpp          # 红黑树实现
+		├── main.cpp            # 测试程序
+		├── RB_Tree.cvxproj		# 项目文件
+		└── RB_Tree.cvxproj.filters	# 项目过滤器文件
